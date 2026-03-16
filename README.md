@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MedAnalyze AI — Project Report
 
 ## 1. Executive Summary
@@ -173,3 +174,6 @@ All project objectives have been met as outlined in Section 2.
 ---
 
 *For technical questions or support, please contact the development team.*
+=======
+# MedAnalyze-AI
+>>>>>>> 1b9e475a45fee9da8382b4f93c30f73bebf180e2
