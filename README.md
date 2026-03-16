@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # MedAnalyze AI — Project Report
 
 ## 1. Executive Summary
@@ -168,10 +168,6 @@ MedAnalyze AI is developed strictly for **informational purposes**. It is not a 
 ## 11. Conclusion
 
 The MedAnalyze AI project has been successfully completed and delivered in full. Both the frontend and backend components are functional, tested, and ready for deployment. The system provides a professional, user-friendly interface for AI-assisted medical report analysis with a clean dark-themed UI, structured outputs, and a real-time chat assistant.
-
-All project objectives have been met as outlined in Section 2.
-
----
 
 *For technical questions or support, please contact the development team.*
 =======
